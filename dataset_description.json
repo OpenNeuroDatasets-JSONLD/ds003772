@@ -6,5 +6,7 @@
         "Matthew R. Nassar",
         "Joshua I. Gold",
         "Joseph W. Kable"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003772.v1.0.0",
+    "License": "CC0"
 }
