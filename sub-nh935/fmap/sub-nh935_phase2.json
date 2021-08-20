@@ -1,0 +1,4 @@
+{
+"EchoTime": 0.00527,
+"IntendedFor": ["func/sub-nh935_task-changepoint_run-1_bold.nii.gz", "func/sub-nh935_task-changepoint_run-2_bold.nii.gz", "func/sub-nh935_task-changepoint_run-3_bold.nii.gz", "func/sub-nh935_task-changepoint_run-4_bold.nii.gz"]
+}
